@@ -4,6 +4,9 @@
     <?php require_once("inc/head.php"); ?> <!-- Head tag related code -->
     <title>Contact Page</title>
     <style>
+        body {
+            background: #9FF;
+        }
         .fieldWrapper {
             position: relative;
         }
