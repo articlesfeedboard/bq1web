@@ -18,6 +18,7 @@
             padding: 0px 6px;
             background: #F99;
             position: absolute;
+            display: none;
         }
     </style>
         

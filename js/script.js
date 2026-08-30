@@ -173,3 +173,6 @@ $(document).on('click', '.showPwd', function(){
         pwdField.attr('type', 'password');
     }
 });
+
+
+console.log('Hi');
